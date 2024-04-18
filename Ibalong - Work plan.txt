@@ -1,0 +1,19 @@
+Ibalong
+Main Menu
+	Background
+	The Ibalong Epic
+	The Characters
+		Heroes
+		Monsters
+	The Festival
+
+HTML and CSS to use
+- Image filter card
+	Main menu
+- parallax
+	The epic poem
+	Background
+- 3D rotating gallery
+	The characters
+- Image xx 
+	The Festival
