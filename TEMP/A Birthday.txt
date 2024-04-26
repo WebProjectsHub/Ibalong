@@ -1,20 +1,39 @@
 A Birthday
 Christina Rossetti
 
-My heart is like a singing bird
-Whose nest is in a water’d shoot;
-My heart is like an apple-tree
-Whose boughs are bent with thickset fruit;
-My heart is like a rainbow shell
-That paddles in a halcyon sea;
-My heart is gladder than all these
-Because my love is come to me.
+<div>	My heart is like a singing bird			</div>
+<div>	Whose nest is in a water’d shoot;		</div>
+<div>	My heart is like an apple-tree			</div>
+<div>	Whose boughs are bent with thickset fruit;	</div>
+<div>	My heart is like a rainbow shell		</div>
+<div>	That paddles in a halcyon sea;			</div>
+<div>	My heart is gladder than all these		</div>
+<div>	Because my love is come to me.			</div><br>
 
-Raise me a dais of silk and down;
-Hang it with vair and purple dyes;
-Carve it in doves and pomegranates,
-And peacocks with a hundred eyes;
-Work it in gold and silver grapes,
-In leaves and silver fleurs-de-lys;
-Because the birthday of my life
-Is come, my love is come to me.
+<div>	Raise me a dais of silk and down;		</div>
+<div>	Hang it with vair and purple dyes;		</div>
+<div>	Carve it in doves and pomegranates,		</div>
+<div>	And peacocks with a hundred eyes;		</div>
+<div>	Work it in gold and silver grapes,		</div>
+<div>	In leaves and silver fleurs-de-lys;		</div>
+<div>	Because the birthday of my life			</div>
+<div>	Is come, my love is come to me.			</div><br>
+
+
+My heart is like a singing bird			<br>
+Whose nest is in a water’d shoot;		<br>
+My heart is like an apple-tree			<br>
+Whose boughs are bent with thickset fruit;	<br>
+My heart is like a rainbow shell		<br>
+That paddles in a halcyon sea;			<br>
+My heart is gladder than all these		<br>
+Because my love is come to me.			<br><br>
+
+Raise me a dais of silk and down;		<br>
+Hang it with vair and purple dyes;		<br>
+Carve it in doves and pomegranates,		<br>
+And peacocks with a hundred eyes;		<br>
+Work it in gold and silver grapes,		<br>
+In leaves and silver fleurs-de-lys;		<br>
+Because the birthday of my life			<br>
+Is come, my love is come to me.			<br><br>
